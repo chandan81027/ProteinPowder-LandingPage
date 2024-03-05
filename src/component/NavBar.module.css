@@ -1,0 +1,23 @@
+.NavBar{
+    width: 100vw;
+    border-radius: 10px;
+    padding: 15px;
+    background: rgb(52, 50, 50);
+    color: white;
+}
+.list{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    font-size: 33px;
+}
+.end{
+    display: flex;
+    list-style: none;
+    position: relative;
+    font-size: 33px;
+    left: 38%;
+    gap: 40px;
+
+
+}
